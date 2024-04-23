@@ -1,2 +1,2 @@
-# Practica-2
-Codigo de los ejercicios de la practica 2
+Prácticas Bim 2
+Todos los códigos de las practicas del bimestre 
